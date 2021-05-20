@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <item name="pantallaResultado" type="id" />
+    <item name="menu_settings" type="id" />
+    <item name="menu_foto" type="id" />
+    <item name="menu_email" type="id" />
+    <item name="menu_maps" type="id" />
+    <item name="menu_telefono" type="id" />
+    <item name="numTelf" type="id" />
+</resources>
